@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/Optional.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/Portability.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/CPortability.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/Traits.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/Utility.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/vitor/Desktop/GoStack/gostack10-primeiro-projeto-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
