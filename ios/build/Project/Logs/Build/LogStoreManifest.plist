@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>90042758-0A47-45A6-A37A-60E933BC7624</key>
+		<key>26578E40-1038-4DFA-B0C6-31B07C676160</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>90042758-0A47-45A6-A37A-60E933BC7624.xcactivitylog</string>
+			<string>26578E40-1038-4DFA-B0C6-31B07C676160.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace Project with scheme Project and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>603145161.46778297</real>
+			<real>603159047.941167</real>
 			<key>timeStoppedRecording</key>
-			<real>603145176.91189694</real>
+			<real>603159066.48762405</real>
 			<key>title</key>
 			<string>Building workspace Project with scheme Project and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>90042758-0A47-45A6-A37A-60E933BC7624</string>
+			<string>26578E40-1038-4DFA-B0C6-31B07C676160</string>
+		</dict>
+		<key>CAE478D3-0B40-4254-8D0A-127B7DB23E86</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CAE478D3-0B40-4254-8D0A-127B7DB23E86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Project project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Project</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Project with scheme Project and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603157679.17652702</real>
+			<key>timeStoppedRecording</key>
+			<real>603157680.95815599</real>
+			<key>title</key>
+			<string>Building workspace Project with scheme Project and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CAE478D3-0B40-4254-8D0A-127B7DB23E86</string>
 		</dict>
 	</dict>
 </dict>
