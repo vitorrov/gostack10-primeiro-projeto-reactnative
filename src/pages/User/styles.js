@@ -76,10 +76,20 @@ export const Author = styled.Text`
   margin-top: 2px;
 `;
 
-export const ActivityIndicator = styled.Text`
+export const dsdsds = styled.Text`
   font-size: 16px;
   color: black;
   font-weight: bold;
   align-self: center;
   margin-top: 70px;
+`;
+
+export const ActivityIndicator = styled.ActivityIndicator.attrs({
+  color: '#7159c1',
+  size: 50,
+})`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 `;

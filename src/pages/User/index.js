@@ -31,22 +31,36 @@ export default class User extends Component {
 
   state = {
     stars: [],
-    loading: false,
+    loading: true,
+    page: 1,
   };
 
   async componentDidMount() {
     this.handleViewProfile();
   }
 
-  handleViewProfile = async () => {
+  handleViewProfile = async (page = 1) => {
     const { navigation } = this.props;
+    const { stars } = this.state;
     const user = navigation.getParam('user');
 
-    this.setState({ loading: true });
+    const response = await api.get(`/users/${user.login}/starred`, {
+      params: { page },
+    });
 
-    const response = await api.get(`/users/${user.login}/starred`);
+    this.setState({
+      stars: page >= 2 ? [...stars, ...response.data] : response.data,
+      page,
+      loading: false,
+    });
+  };
 
-    this.setState({ stars: response.data, loading: false });
+  loadMore = async () => {
+    const { page } = this.state;
+
+    const nextPage = page + 1;
+
+    this.handleViewProfile(nextPage);
   };
 
   render() {
@@ -63,10 +77,12 @@ export default class User extends Component {
         </Header>
 
         {loading ? (
-          <ActivityIndicator>Carregando...</ActivityIndicator>
+          <ActivityIndicator />
         ) : (
           <Stars
             data={stars}
+            onEndReachedThreshold={0.2}
+            onEndReached={this.loadMore}
             keyExtract={star => String(star.id)}
             renderItem={({ item }) => (
               <Starred>
